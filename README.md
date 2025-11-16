@@ -19,7 +19,7 @@ Implementación básica de un chain LLM usando LangChain y OpenAI para generar r
 
 2. Crear entorno virtual:
 
-![]()
+![](https://github.com/hakki17/AREP-Introduction-to-Creating-RAGs/blob/main/IMG/1.entorno-virtual.png)
 
 3. Instalar dependencias:
 
@@ -29,9 +29,7 @@ pip install langchain langchain-openai python-dotenv
 
 4. Crear archivo `.env`:
 
-```
-OPENAI_API_KEY=tu-api-key
-```
+![](https://github.com/hakki17/AREP-Introduction-to-Creating-RAGs/blob/main/IMG/2.env.png)
 
 5. Ejecutar:
 
@@ -41,7 +39,4 @@ python basic_chain.py
 
 ## Ejemplo de Output
 
-```
-¿Por qué los programadores prefieren el café helado?
-Porque les ayuda a mantener la calma cuando hay un bug en el código.
-```
+![](https://github.com/hakki17/AREP-Introduction-to-Creating-RAGs/blob/main/IMG/3.pruebas.png)
